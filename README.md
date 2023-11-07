@@ -15,4 +15,6 @@ A simple triangle graphic implemented using c++ and the OpenGl library
     Enjoy
 </li>
 
+<br>
+<img src="./output.png">
 <ul>
