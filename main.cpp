@@ -35,7 +35,7 @@ int main(int argc, char** argv)
     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
     glutInitWindowPosition(280, 75);
     glutInitWindowSize(800, 600);
-    glutCreateWindow("A sample opengl program");
+    glutCreateWindow("A simple coloured triangle");
 
     init();
     glutDisplayFunc(lineSegment);
